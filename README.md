@@ -8,4 +8,4 @@ Intent is to network, share & collaborate online. Starting simple, inspired by t
 
 ## License
 
-MIT © Muthu Kumaran Lekshmanan
+Apache License 2.0 © Muthu Kumaran Lekshmanan
