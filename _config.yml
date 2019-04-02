@@ -1,0 +1,103 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Software Architect, Data Enthusiast, Open-source Champion
+name: Muthu Kumaran Lekshmanan
+email: muthuk.l.1234@gmail.com
+location: Sunnyvale, CA, USA
+company: Brocade Communications Systems
+company_url: https://www.broadcom.com
+github_url: https://github.com/softwarebrahma
+github_username: softwarebrahma
+description: A personal website of Muthu Kumaran Lekshmanan
+favicon: code-solid.svg
+repository: softwarebrahma/softwarebrahma.github.io
+
+# The base hostname & protocol for your site
+# For local test, http://localhost:4000
+# For production, github page url
+url: http://softwarebrahma.github.io
+
+## Gem
+gems:
+  - jekyll-paginate
+  - jekyll-geo-pattern
+  - rouge
+  - kramdown
+  - jekyll-github-metadata
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+lsi:         false
+excerpt_separator: "\n\n"
+
+source:      .
+destination: ./_site
+
+quiet:    false
+defaults: []
+
+kramdown:
+  input: GFM
+  enable_coderay: true
+
+# Disque
+disque: softwarebrahma.disqus.com
+
+# Pagination
+paginate: 10
+paginate_path: 'page:num'
+
+# Navigation. If you do not like these modules, just remove them :D
+navs:
+  -
+    href: /
+    label: Home
+
+  -
+    href: /open-source
+    label: Open-Source
+
+  -
+    href: /blog
+    label: Blog
+
+  -
+    href: /bookmark
+    label: Bookmark
+
+  -
+    href: /about
+    label: About
+
+# Sidebar to show popular repo
+side_bar_repo_limit: 5 # Number of repos to show
+
+# Google Analytics
+analytics :
+  provider : google
+  google :
+      tracking_id : UA-26964693-1
+
+
+# For about.html. Fell free to create your own!
+skill_software_keywords: [Java, Scala, Python, Shell, SQL, PL/SQL]
+skill_db_keywords: [PostgreSQL, MySQL, Oracle, Cassandra, Redis, Infinispan]
+skill_model_keywords: [UML, yUML, ArgoUML, WebSequenceDiagrams]
+skill_orm_keywords: [JPA, Hibernate, MyBatis]
+skill_j2ee_keywords: [Jetty, Tomcat, Jboss/WildFly, NGINX, Spring Boot, Elastic Stack, JSP/Servlets, JAXP, JAXB, JSON-P, JSON-B, JDBC, JMS, EJB, Java EE, gRPC]
+skill_web_keywords: [Microservices, REST, Swagger, JAX-RS, RESTEasy, WebSocket API, JAX-WS, Apache CXF, JSF 2, PrimeFaces, XML, XSLT, JSON, HTML, CSS, JavaScript]
+skill_data_keywords: [GNU Octave, MATLAB, WSO2 CEP, Apache Kafka, Apache Ignite, Apache Spark, Apache Drill]
+skill_ml_keywords: [Deep Learning, TensorFlow, Keras, Pandas, NumPy, SciPy, Matplotlib, CNN]
+skill_tdd_keywords: [JUnit, TestNG]
+skill_ide_keywords: [Eclipse, NetBeans, JDeveloper, JBuilder]
+skill_prof_keywords: [YourKit, Jtest, JProbe suite, JiveLint, FindBugs, Checkstyle, PMD, Scalastyle]
+skill_cicd_keywords: [Jenkins, Ant, Maven, Git, ClearCase, Perforce]
+skill_collab_keywords: [Confluence, JIRA, Bugzilla, Gerrit, Collaborator, Slack, Yammer, SharePoint]
+skill_deploy_keywords: [Unix, Linux, Windows, Docker, Swarm, Kubernetes]

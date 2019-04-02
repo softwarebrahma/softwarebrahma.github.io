@@ -1,43 +1,66 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+---
+layout: default
+menu: home
+css: ['index.css', 'sidebar-popular-repo.css']
+---
+<section class="jumbotron">
+    <div class="container">
+        <h2>{{ site.title }}</h2>
+        <div id="jumbotron-meta-info">
+            {% if site.location %}
+            <span class="meta-info">
+                <span class="octicon octicon-location"></span>
+                {{ site.location }}
+            </span> {% endif %}
+            {% if site.company %}
+            <span class="meta-info hvr-grow">
+                <span class="octicon octicon-organization"></span>
+                <a href="{{ site.company_url }}" target="_blank">{{ site.company }}</a>
+            </span> {% endif %}
+            {% if site.github_username %}
+            <span class="meta-info hvr-grow">
+                <span class="octicon octicon-mark-github"></span>
+                <a href="{{ site.github_url }}" target="_blank">@{{ site.github_username }}</a>
+            </span> {% endif %}
+        </div>
+    </div>
+</section>
+<section class="content container">
 
-	<title>Muthu Kumaran Lekshmanan | Software Architect, Data Enthusiast, Open-source Champion</title>
+    <div class="row">
 
-	<link rel="icon" href="favicon.ico" type="image/png" />
+        <!-- Post List -->
+        <div class="col-md-8">
 
-	<link href="https://fonts.googleapis.com/css?family=Reem+Kufi|Roboto:300" rel="stylesheet">
-	<link href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" rel="stylesheet">
-	<link rel="stylesheet" href="css/reset.css">
-	<link rel="stylesheet" href="css/styles.css">
-	<link rel="stylesheet" href="css/themes/indigo-white.css">
-	<!-- <link rel="stylesheet" href="css/themes/green-white.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/red-white.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/grey-white.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/white-indigo.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/white-blue.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/white-grey.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/white-red.css"> -->
-	<!-- <link rel="stylesheet" href="css/themes/yellow-black.css"> -->
-</head>
-<body>
-	<main>
-		<div class="intro">Hi, If you're in need of a Solutions Architect with a passion for all things data &amp; a commitment to leveraging OSS to drive value, you're in luck!</div>
-		<div class="tagline">Software Architect | Data Enthusiast | Open-source Champion | ML &amp; DL Hacker | Skeptic</div>
-		<!-- Find your icons from here - https://fontawesome.com/icons?d=gallery&s=brands -->
-		<div class="icons-social">
-			<a target="_blank" href="https://www.linkedin.com/in/muthu-kumaran-lekshmanan-09656a30"><i class="fab fa-linkedin"></i></a>
-			<a target="_blank" href="https://twitter.com/muthu_kumaran_l"><i class="fab fa-twitter"></i></a>
-			<a target="_blank" href="https://stackoverflow.com/story/softwarebrahma"><i class="fab fa-stack-overflow"></i></a>
-			<a target="_blank" href="https://github.com/softwarebrahma"><i class="fab fa-github"></i></a>
-			<a target="_blank" href="https://dev.to/softwarebrahma"><i class="fab fa-dev"></i></a>
-			<a target="_blank" href="https://medium.com/@muthu.kumaran.l"><i class="fab fa-medium"></i></a>
-			<a target="_blank" href="https://software-brahma.blogspot.com"><i class="fab fa-blogger"></i></a>
-			<a target="_blank" href="https://www.freecodecamp.org"><i class="fab fa-free-code-camp"></i></a>
-    		</div>
-	</main>
-</body>
-</html>
+            <ol class="post-list">
+                {% for post in paginator.posts %}
+                <li class="post-list-item">
+                    <h2 class="post-list-title">
+                        <a class="hvr-underline-from-center" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                    </h2>
+                    <p class="post-list-description">
+                        {{ post.excerpt | strip_html | strip }}
+                    </p>
+                    <p class="post-list-meta">
+                        <span class="octicon octicon-calendar"></span> {{ post.date | date: "%Y/%m/%d" }}
+                    </p>
+                </li>
+                {% endfor %}
+            </ol>
+
+            <!-- Pagination -->
+            {% include pagination.html %}
+
+            <!-- Comments -->
+            {% include disqus-comments.html %}
+
+        </div>
+
+        <div class="col-md-4">
+            {% include sidebar-popular-repo.html %}
+        </div>
+
+    </div>
+
+</section>
+
