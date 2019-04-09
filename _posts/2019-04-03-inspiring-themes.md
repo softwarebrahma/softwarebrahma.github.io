@@ -112,8 +112,7 @@ I surrender to thee!..(repeat)
 
 This excerpt from Dr. [Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)&#39;s book, [**_Pale Blue Dot_**](https://en.wikipedia.org/wiki/Pale_Blue_Dot_(book)) was inspired by an image taken, at Sagan&#39;s suggestion, by Voyager 1 on February 14, 1990. As the spacecraft left our planetary neighborhood for the fringes of the solar system, engineers turned it around for one last look at its home planet. Voyager 1 was about 6.4 billion kilometers (4 billion miles) away, and approximately 32 degrees above the ecliptic plane, when it captured this portrait of our world. Caught in the center of scattered light rays (a result of taking the picture so close to the Sun), Earth appears as a tiny point of light, a crescent only 0.12 pixel in size.
 
-![The Pale Blue Dot of Earth (Courtesy: NASA / JPL)](/assets/images/Pale_Blue_Dot.png)
-
+![The Pale Blue Dot of Earth (Courtesy: NASA / JPL)](/assets/images/Pale_Blue_Dot.png 'Title text')
 This image of Earth is one of 60 frames taken by the Voyager 1 spacecraft on February 14, 1990 from a distance of more than 6 billion kilometers (4 billion miles) and about 32 degrees above the ecliptic plane. In the image the Earth is a mere point of light, a crescent only 0.12 pixel in size. Our planet was caught in the center of one of the scattered light rays resulting from taking the image so close to the Sun. This image is part of Voyager 1&#39;s final photographic assignment which captured family portraits of the Sun and planets.
 
 ```
