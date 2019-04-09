@@ -12,7 +12,7 @@ Inspiring themes to meditate on..
 
 # Thy Love I Fear
 
-This is [Swami Vivekananda][68f14945]&#39;s translation of a Bengali song and it forms a part of a piece he wrote, titled ["The Story of the Boy Gopala"](http://www.ramakrishnavivekananda.info/vivekananda/volume_6/writings_prose_and_poems/the_story_of_boy_gopala.htm). His guru, [Sri Ramakrishna Paramahamsa][2e6ea882], used to like this song very much.
+This is [Swami Vivekananda][68f14945]&#39;s translation of a Bengali song and it forms a part of a piece he wrote, titled "[The Story of the Boy Gopala](http://www.ramakrishnavivekananda.info/vivekananda/volume_6/writings_prose_and_poems/the_story_of_boy_gopala.htm)". His guru, [Sri Ramakrishna Paramahamsa][2e6ea882], used to like this song very much.
 
 ```
 Thy knowledge, man! I value not,
