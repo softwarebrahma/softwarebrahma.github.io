@@ -8,9 +8,9 @@ tags:
   - art
 ---
 
-Inspiring themes to meditate on.
-
 # Inspiring Themes
+
+Some inspiring themes to meditate on..
 
 ## Swami Vivekananda
 
