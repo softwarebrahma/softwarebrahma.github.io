@@ -5,8 +5,6 @@ category: CSS
 tags: [css]
 ---
 
-Quick note about CSS animation. 
-
 ## CSS Animation
 
 CSS3 animation lets an element gradually change from one style to another.
