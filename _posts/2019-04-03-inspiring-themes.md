@@ -122,6 +122,8 @@ Caught in the center of scattered light rays (a result of taking the picture so 
 
 <sup>This image of Earth is one of 60 frames taken by the Voyager 1 spacecraft on February 14, 1990 from a distance of more than 6 billion kilometers (4 billion miles) and about 32 degrees above the ecliptic plane. In the image the Earth is a mere point of light, a crescent only 0.12 pixel in size. Our planet was caught in the center of one of the scattered light rays resulting from taking the image so close to the Sun. This image is part of Voyager 1&#39;s final photographic assignment which captured family portraits of the Sun and planets.</sup>
 
+Below is the excerpt,
+
 ```
 Look again at that dot. That's here. That's home. That's us. 
 On it everyone you love, everyone you know, everyone you ever heard of, 
