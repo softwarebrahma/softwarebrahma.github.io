@@ -8,9 +8,13 @@ tags:
   - art
 ---
 
-Inspiring themes to meditate on..
+Inspiring themes to meditate on.
 
-# Thy Love I Fear
+# Inspiring Themes
+
+## Swami Vivekananda
+
+### Thy Love I Fear
 
 This is [Swami Vivekananda][68f14945]&#39;s translation of a Bengali song and it forms a part of a piece he wrote, titled, &quot;[_The Story of the Boy Gopala_](http://www.ramakrishnavivekananda.info/vivekananda/volume_6/writings_prose_and_poems/the_story_of_boy_gopala.htm)&quot;. His guru, [Sri Ramakrishna Paramahamsa][2e6ea882], used to like this song very much.
 
@@ -31,13 +35,19 @@ What science, girls that milked the kine?
    They loved, and Me they bought.
 ```
 
-# Ninnai Charanadainthen! Kannamma! (I surrender to thee! Kannamma!)
+## Mahakavi Subramania Bharathi
+
+### Ninnai Charanadainthen! Kannamma! (I surrender to thee! Kannamma!)
 
 WIP
 
-# A Pale Blue Dot
+
+## Dr. Carl Sagan
+
+### A Pale Blue Dot
 
 WIP
+
 
 [2e6ea882]: https://en.wikipedia.org/wiki/Ramakrishna "Sri Ramakrishna Paramahamsa"
 [68f14945]: https://en.wikipedia.org/wiki/Swami_Vivekananda "Swami Vivekananda"
