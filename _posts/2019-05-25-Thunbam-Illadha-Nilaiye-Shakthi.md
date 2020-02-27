@@ -13,7 +13,7 @@ tags:
 
 Among the many truly great, but tragically underrecognized, minds that India has produced in the last century is [Mahakavi Subramania Bharathi](https://en.wikipedia.org/wiki/Subramania_Bharati).
 
-Also known as 'Bharathiyar', he is held in deep revere in the South Indian state of Tamil Nadu and is popularly referred to as 'Mahakavi' Bharathi, 'Mahakavi' meaning Greatest poet. He was a pioneer of modern Tamil poetry in addition to being a prolific writer and is considered one of the greatest Tamil literary figures of all time.
+Also known as &apos;Bharathiyar&apos;, he is held in deep revere in the South Indian state of Tamil Nadu and is popularly referred to as 'Mahakavi' Bharathi, 'Mahakavi' meaning Greatest poet. He was a pioneer of modern Tamil poetry in addition to being a prolific writer and is considered one of the greatest Tamil literary figures of all time.
 
 While his contribution to Tamil literature is immense, his reach, life and work was far and wide and extended beyond literature. He was a freedom fighter, social reformer, accomplished journalist, novelist, polyglot literary translator and a true visionary leader.
 
