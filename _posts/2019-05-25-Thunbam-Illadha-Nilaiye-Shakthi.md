@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shakthi!
-date: '2019-05-25 02:45:00 −0700'
+date: '2019-04-25 02:45:00 −0700'
 categories: Philosophy
 tags:
   - philosophy
@@ -13,38 +13,38 @@ tags:
 
 Among the many truly great, but tragically underrecognized, minds that India has produced in the last century is [Mahakavi Subramania Bharathi](https://en.wikipedia.org/wiki/Subramania_Bharati).
 
-Also known as &apos;Bharathiyar&apos;, he is held in deep revere in the South Indian state of Tamil Nadu and is popularly referred to as 'Mahakavi' Bharathi, 'Mahakavi' meaning Greatest poet. He was a pioneer of modern Tamil poetry in addition to being a prolific writer and is considered one of the greatest Tamil literary figures of all time.
+Also known as &apos;Bharathiyar&apos;, he is held in deep revere in the South Indian state of Tamil Nadu and is popularly referred to as &apos;Mahakavi&apos; Bharathi, &apos;Mahakavi&apos; meaning Greatest poet. He was a pioneer of modern Tamil poetry in addition to being a prolific writer and is considered one of the greatest Tamil literary figures of all time.
 
 While his contribution to Tamil literature is immense, his reach, life and work was far and wide and extended beyond literature. He was a freedom fighter, social reformer, accomplished journalist, novelist, polyglot literary translator and a true visionary leader.
 
-His body of work on Tamil literature has since been collected and organized into [four](http://www.lakshmansruthi.com/tamilbooks/bharathiar/) broad categories namely, 'Desiyam' or Patriotism, 'Deivam - Thathuvam' or Devotion/Spirituality & Philosophy, 'Mupperum Paadalgal' or The three great classics and 'Palvagai/Pira Paadalgal' or Autobiographical & other varieties.
+His body of work on Tamil literature has since been collected and organized into [four](http://www.lakshmansruthi.com/tamilbooks/bharathiar/) broad categories namely, &apos;Desiyam&apos; or Patriotism, &apos;Deivam - Thathuvam&apos; or Devotion/Spirituality & Philosophy, &apos;Mupperum Paadalgal&apos; or The three great classics and &apos;Palvagai/Pira Paadalgal&apos; or Autobiographical & other varieties.
 
-##  தெய்வப் பாடல்கள் ('Deivam - Thathuvam' Paadalgal)
+##  தெய்வப் பாடல்கள் (&apos;Deivam - Thathuvam&apos; Paadalgal)
 
-This second volume of his prolific work that dealt with devotional, spiritual & philosophical themes, grouped under 'Deivam - Thathuvam Paadalgal' category/section has become a staple in the literary and musical repertoire of various Tamil artistes across the entire art spectrum throughout the world.
+This second volume of his prolific work that dealt with devotional, spiritual & philosophical themes, grouped under &apos;Deivam - Thathuvam Paadalgal&apos; category/section has become a staple in the literary and musical repertoire of various Tamil artistes across the entire art spectrum throughout the world.
 
-The poetry in this volume can in turn be categorized into two sub-categories/sections namely, 'Thothi Paadalgal' or Hymns and 'Jnana Paadalgal' or Knowledge/Wisdom/Spiritual poetry.
+The poetry in this volume can in turn be categorized into two sub-categories/sections namely, &apos;Thothi Paadalgal&apos; or Hymns and &apos;Jnana Paadalgal&apos; or Knowledge/Wisdom/Spiritual poetry.
 
 ###  தோத்திப் பாடல்கள் (Hymns)
 
 This sub-category/section consists of hymns that abound with adoration and prayer. Notably, it includes Christianity and Islam besides Hinduism which constitutes a large portion of it. 
 
-It is here that one gets a glimpse of why Bharathiyar is sometimes also referred to as 'Shakthi Dasan' or Shakthi devotee/follower. He was a great devotee of Shakthi and this is reflected very prominently in the poetry here. In fact, in his fight for the emancipation of women he visualized the new woman as an emanation of Shakthi.
+It is here that one gets a glimpse of why Bharathiyar is sometimes also referred to as &apos;Shakthi Dasan&apos; or [Shakthi](https://en.wikipedia.org/wiki/Shakti) devotee/follower. He was a great devotee of Shakthi and this is reflected very prominently in the poetry here. In fact, in his fight for the emancipation of women he visualized the new woman as an emanation of Shakthi.
 
-This then brings me to the subject of this blog, a marvellous piece of poetry titled 'Shakthi', one of many gems in this sub-category that is a personal favourite of mine (among many others) and the inspiration behind naming by daughter Shakthi.
+This then brings me to the subject of this blog, a marvellous piece of poetry titled &apos;[Shakthi](https://ta.wikisource.org/wiki/பாரதியாரின்_தெய்வப்பாடல்கள்/20._சக்தி)&apos;, one of many gems in this sub-category that is a personal favourite of mine (among many others) and the inspiration behind naming by daughter Shakthi.
 
 #### சக்தி (Shakthi)
 
-This is the 20th poem in this sub-category. I have done by best to translate it as closely as possible. 
+This is the 20th poem in this sub-category. I have done by best to translate it as closely as i can choosing words carefully that, to my knowledge, best describe the thoughts expressed. As my understanding evolves this is sure to evolve as-well.
 
-Like a lot of his work, this one also has deep contemplation & ruminations with a lot of import & substance. My translation therefore, at best, is just a tiny window into his immense intellect.
+Like a lot of his work, this one too has deep contemplation & ruminations with a lot of import & substance. My translation therefore, is at best, just a tiny window into his immense intellect.
 
 ```
-2. 'Deivam - Thathuvam' Paadalgal (Devotion/Spirituality & Philosophy) - தெய்வப் பாடல்கள்: 
+2. &apos;Deivam - Thathuvam&apos; Paadalgal (Devotion/Spirituality & Philosophy) - தெய்வப் பாடல்கள்: 
 
-	1. 'Thothi Paadalgal' (Hymns) - தோத்திப் பாடல்கள்:
+	1. &apos;Thothi Paadalgal&apos; (Hymns) - தோத்திப் பாடல்கள்:
 
-		20. Shakthi - சக்தி:
+		20. &apos;Shakthi&apos; (Primordial Inconceivable Cosmic Energy or The Great Divine Mother) - சக்தி:
 
 Thunbam Illadha Nilaiye Shakthi (The state of being with no suffering is Shakthi) - துன்ப மிலாத நிலையே சக்தி:
 
