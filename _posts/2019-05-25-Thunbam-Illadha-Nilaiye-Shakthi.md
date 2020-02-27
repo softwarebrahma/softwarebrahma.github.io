@@ -17,7 +17,7 @@ Also known as &apos;Bharathiyar&apos;, he is held in deep revere in the South In
 
 While his contribution to Tamil literature is immense, his reach, life and work was far and wide and extended beyond literature. He was a freedom fighter, social reformer, accomplished journalist, novelist, polyglot literary translator and a true visionary leader.
 
-His body of work on Tamil literature has since been collected and organized into [four](http://www.lakshmansruthi.com/tamilbooks/bharathiar/) broad categories namely, &apos;Desiyam&apos; or Patriotism, &apos;Deivam - Thathuvam&apos; or Devotion/Spirituality & Philosophy, &apos;Mupperum Paadalgal&apos; or The three great classics and &apos;Palvagai/Pira Paadalgal&apos; or Autobiographical & other varieties.
+His body of work on Tamil literature has since been collected and organized into [four](http://www.lakshmansruthi.com/tamilbooks/bharathiar/) broad categories/volumes namely, &apos;Desiyam&apos; or Patriotism, &apos;Deivam - Thathuvam&apos; or Devotion/Spirituality & Philosophy, &apos;Mupperum Paadalgal&apos; or The three great classics and &apos;Palvagai/Pira Paadalgal&apos; or Autobiographical & other varieties.
 
 ##  தெய்வப் பாடல்கள் (&apos;Deivam - Thathuvam&apos; Paadalgal)
 
@@ -40,11 +40,11 @@ This is the 20th poem in this sub-category. I have done by best to translate it 
 Like a lot of his work, this one too has deep contemplation & ruminations with a lot of import & substance. My translation therefore, is at best, just a tiny window into his immense intellect.
 
 ```
-2. &apos;Deivam - Thathuvam&apos; Paadalgal (Devotion/Spirituality & Philosophy) - தெய்வப் பாடல்கள்: 
+2. 'Deivam - Thathuvam' Paadalgal (Devotion/Spirituality & Philosophy) - தெய்வப் பாடல்கள்: 
 
-	1. &apos;Thothi Paadalgal&apos; (Hymns) - தோத்திப் பாடல்கள்:
+	1. 'Thothi Paadalgal' (Hymns) - தோத்திப் பாடல்கள்:
 
-		20. &apos;Shakthi&apos; (Primordial Inconceivable Cosmic Energy or The Great Divine Mother) - சக்தி:
+		20. 'Shakthi' (Primordial Inconceivable Cosmic Energy or The Great Divine Mother) - சக்தி:
 
 Thunbam Illadha Nilaiye Shakthi (The state of being with no suffering is Shakthi) - துன்ப மிலாத நிலையே சக்தி:
 
