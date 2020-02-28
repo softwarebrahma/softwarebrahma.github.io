@@ -40,7 +40,7 @@ This is the 20th poem in this sub-category. I have done by best to translate it 
 Like a lot of his work, this one too has deep contemplation & ruminations with a lot of import & substance. My translation therefore, is at best, just a tiny window into his immense intellect.
 
 ```
-2. 'Deivam - Thathuvam' Paadalgal (Devotion/Spirituality & Philosophy) - தெய்வப் பாடல்கள்: 
+2. 'Deivam - Thathuvam Paadalgal' (Devotion/Spirituality & Philosophy) - தெய்வப் பாடல்கள்: 
 
 	1. 'Thothi Paadalgal' (Hymns) - தோத்திப் பாடல்கள்:
 
