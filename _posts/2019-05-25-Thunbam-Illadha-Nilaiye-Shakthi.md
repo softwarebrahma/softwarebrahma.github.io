@@ -33,7 +33,7 @@ It is here that one gets a glimpse of why Bharathiyar is sometimes also referred
 
 This then brings me to the subject of this blog, a marvellous piece of poetry titled &apos;[Shakthi](https://ta.wikisource.org/wiki/பாரதியாரின்_தெய்வப்பாடல்கள்/20._சக்தி)&apos;, one of many gems in this sub-category that is a personal favourite of mine (among many others) and the inspiration behind naming by daughter Shakthi.
 
-#### சக்தி (Shakthi)
+####  சக்தி (Shakthi)
 
 This is the 20th poem in this sub-category. I have done by best to translate it as closely as i can choosing words carefully that, to my knowledge, best describe the thoughts expressed. As my understanding evolves this is sure to evolve as-well.
 
