@@ -104,7 +104,7 @@ The tapas (penance) that eliminates confusion and grief (distress) is Shakthi
 உள்ளத் தொளிரும் விளக்கே சக்தி.
 
 The greatness of nobility which stops one from downfall (falling/descending) is Shakthi
-The one who spans the whole expanse of sky is Shakthi
+The vastness who spans the whole expanse of sky is Shakthi
 The greatness that (separates the bondage of causality and) removes karma is Shakthi
 The light which illuminates (shines light to dispel ignorance) from within the mind is Shakthi
 
