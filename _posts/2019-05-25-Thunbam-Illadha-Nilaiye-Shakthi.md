@@ -19,13 +19,13 @@ While his contribution to Tamil literature is immense, his reach, life and work 
 
 His body of work on Tamil literature has since been collected and organized into [four](http://www.lakshmansruthi.com/tamilbooks/bharathiar/) broad categories/volumes namely, &apos;Desiyam&apos; or Patriotism, &apos;Deivam - Thathuvam&apos; or Devotion/Spirituality & Philosophy, &apos;Mupperum Paadalgal&apos; or The three great classics and &apos;Palvagai/Pira Paadalgal&apos; or Autobiographical & other varieties.
 
-##  தெய்வப் பாடல்கள் (&apos;Deivam - Thathuvam&apos; Paadalgal)
+##  தெய்வப் பாடல்கள் (&apos;Deivam - Thathuvam Paadalgal&apos;)
 
 This second volume of his prolific work that dealt with devotional, spiritual & philosophical themes, grouped under &apos;Deivam - Thathuvam Paadalgal&apos; category/section has become a staple in the literary and musical repertoire of various Tamil artistes across the entire art spectrum throughout the world.
 
 The poetry in this volume can in turn be categorized into two sub-categories/sections namely, &apos;Thothi Paadalgal&apos; or Hymns and &apos;Jnana Paadalgal&apos; or Knowledge/Wisdom/Spiritual poetry.
 
-###  தோத்திப் பாடல்கள் (Hymns)
+###  தோத்திப் பாடல்கள் (&apos;Thothi Paadalgal&apos;)
 
 This sub-category/section consists of hymns that abound with adoration and prayer. Notably, it includes Christianity and Islam besides Hinduism which constitutes a large portion of it. 
 
