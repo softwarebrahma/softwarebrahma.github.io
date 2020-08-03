@@ -23,7 +23,7 @@ repository: softwarebrahma/softwarebrahma.github.io
 # For production, github page url
 url: http://softwarebrahma.github.io
 
-Systems and Methods for Context Based Multi-Dimensional Network Visualization: http://www.freepatentsonline.com/y2019/0356551.html
+patent1_url: http://www.freepatentsonline.com/y2019/0356551.html
 
 ## Gem
 gems:
@@ -89,7 +89,7 @@ analytics :
 
 
 # For about.html. Fell free to create your own!
-skill_patent_keywords: [patent1]
+skill_patent_keywords: [Systems and Methods for Context Based Multi-Dimensional Network Visualization]
 skill_software_keywords: [Java, Scala, Python, Shell, SQL, PL/SQL]
 skill_db_keywords: [PostgreSQL, MySQL, Oracle, Cassandra, Redis, Infinispan]
 skill_model_keywords: [UML, yUML, ArgoUML, WebSequenceDiagrams]
