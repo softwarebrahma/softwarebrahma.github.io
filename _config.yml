@@ -23,8 +23,7 @@ repository: softwarebrahma/softwarebrahma.github.io
 # For production, github page url
 url: http://softwarebrahma.github.io
 
-patent1_url: http://www.freepatentsonline.com/y2019/0356551.html
-patent1_title: Systems and Methods for Context Based Multi-Dimensional Network Visualization
+Systems and Methods for Context Based Multi-Dimensional Network Visualization: http://www.freepatentsonline.com/y2019/0356551.html
 
 ## Gem
 gems:
