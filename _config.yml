@@ -89,7 +89,7 @@ analytics :
 
 
 # For about.html. Fell free to create your own!
-skill_patent_keywords: [Systems and Methods for Context Based Multi-Dimensional Network Visualization]
+skill_patent_keywords: [<a href="{{ site.patent1_url }}">Systems and Methods for Context Based Multi-Dimensional Network Visualization</a>]
 skill_software_keywords: [Java, Scala, Python, Shell, SQL, PL/SQL]
 skill_db_keywords: [PostgreSQL, MySQL, Oracle, Cassandra, Redis, Infinispan]
 skill_model_keywords: [UML, yUML, ArgoUML, WebSequenceDiagrams]
